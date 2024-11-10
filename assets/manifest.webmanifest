@@ -1,7 +1,7 @@
 {
   "name": "Easy Bill Splitter",
   "short_name": "BillSplitter",
-  "start_url": "/",
+  "start_url": "/easyBillSplitter/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2196f3",
